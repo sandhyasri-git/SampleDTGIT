@@ -19,7 +19,7 @@ class Child extends Parent
 	}
 }
 public class InheritanceDemo extends Parent {
-
+	//Constructor
 	public InheritanceDemo()
 	{
 		System.out.println("Child 2");
